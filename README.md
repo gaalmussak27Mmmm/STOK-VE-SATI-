@@ -34,5 +34,5 @@ Proje, kodun yönetilebilirliğini ve sürdürülebilirliğini artırmak için �
 3. Veritabanı bağlantı dizesini (Connection String) kendi yerel ayarlarınıza göre güncelleyin.
 4. Projeyi `Build` edip çalıştırın.
 
----
-
+Proje Tanıtım Vİdeosu (YOTUBE)---
+https://youtu.be/h9_cn_wvh64
