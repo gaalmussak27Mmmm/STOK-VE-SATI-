@@ -35,4 +35,4 @@ Proje, kodun yönetilebilirliğini ve sürdürülebilirliğini artırmak için �
 4. Projeyi `Build` edip çalıştırın.
 
 Proje Tanıtım Vİdeosu (YOTUBE)---
-https://youtu.be/h9_cn_wvh64
+https://youtu.be/sQ8bYIn2u-Y
